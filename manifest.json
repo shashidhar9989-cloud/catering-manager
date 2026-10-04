@@ -1,0 +1,9 @@
+{
+  "name": "Catering Manager",
+  "short_name": "Catering Manager",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#17324d",
+  "icons": []
+}
